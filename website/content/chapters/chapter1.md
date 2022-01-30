@@ -69,8 +69,7 @@ of choosing one sampling scheme over another.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g7JGe_ykB3I?list=PLkIselvEzpM6pZ76FD3NoCvvgkj_p-dE8" frameborder="0" allowfullscreen></iframe>
 
-
-[Using Randomization to Analyze a Gender Discrimination Study](Using Randomization to Analyze a Gender Discrimination Study)
+[Using Randomization to Analyze a Gender Discrimination Study](https://www.youtube.com/watch?list=PLkIselvEzpM6pZ76FD3NoCvvgkj_p-dE8&v=2pHhjx9hyM4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2pHhjx9hyM4?list=PLkIselvEzpM6pZ76FD3NoCvvgkj_p-dE8" frameborder="0" allowfullscreen></iframe>
 
